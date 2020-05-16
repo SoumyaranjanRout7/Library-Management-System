@@ -1,0 +1,94 @@
+[Tue May 12 12:28:43.031603 2020] [ssl:warn] [pid 13320:tid 672] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 12 12:28:43.392686 2020] [ssl:warn] [pid 13320:tid 672] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: \\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), \\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Tue May 12 12:28:47.109282 2020] [mpm_winnt:notice] [pid 13320:tid 672] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.3 configured -- resuming normal operations
+[Tue May 12 12:28:47.132588 2020] [mpm_winnt:notice] [pid 13320:tid 672] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Tue May 12 12:28:47.132588 2020] [core:notice] [pid 13320:tid 672] AH00094: Command line: 'C:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue May 12 12:28:47.167556 2020] [mpm_winnt:notice] [pid 13320:tid 672] AH00418: Parent: Created child process 9996
+[Tue May 12 12:28:48.020573 2020] [ssl:warn] [pid 9996:tid 656] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 12 12:28:48.382822 2020] [ssl:warn] [pid 9996:tid 656] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: \\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), \\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Tue May 12 12:28:48.638782 2020] [mpm_winnt:notice] [pid 9996:tid 656] AH00354: Child: Starting 150 worker threads.
+[Tue May 12 12:29:55.157044 2020] [ssl:warn] [pid 15892:tid 668] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 12 12:29:55.514144 2020] [ssl:warn] [pid 15892:tid 668] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), C:\\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Tue May 12 12:29:55.665296 2020] [mpm_winnt:notice] [pid 15892:tid 668] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.3 configured -- resuming normal operations
+[Tue May 12 12:29:55.665296 2020] [mpm_winnt:notice] [pid 15892:tid 668] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Tue May 12 12:29:55.665296 2020] [core:notice] [pid 15892:tid 668] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue May 12 12:29:55.686064 2020] [mpm_winnt:notice] [pid 15892:tid 668] AH00418: Parent: Created child process 17116
+[Tue May 12 12:29:56.794659 2020] [ssl:warn] [pid 17116:tid 632] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 12 12:29:57.318001 2020] [ssl:warn] [pid 17116:tid 632] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), C:\\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Tue May 12 12:29:57.438247 2020] [mpm_winnt:notice] [pid 17116:tid 632] AH00354: Child: Starting 150 worker threads.
+[Tue May 12 12:35:11.904295 2020] [ssl:warn] [pid 12616:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 12 12:35:12.098675 2020] [core:warn] [pid 12616:tid 620] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue May 12 12:35:12.105572 2020] [ssl:warn] [pid 12616:tid 620] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), C:\\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Tue May 12 12:35:12.343608 2020] [mpm_winnt:notice] [pid 12616:tid 620] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.3 configured -- resuming normal operations
+[Tue May 12 12:35:12.343608 2020] [mpm_winnt:notice] [pid 12616:tid 620] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Tue May 12 12:35:12.343608 2020] [core:notice] [pid 12616:tid 620] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Tue May 12 12:35:12.357415 2020] [mpm_winnt:notice] [pid 12616:tid 620] AH00418: Parent: Created child process 17140
+[Tue May 12 12:35:13.321710 2020] [ssl:warn] [pid 17140:tid 640] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Tue May 12 12:35:13.523112 2020] [ssl:warn] [pid 17140:tid 640] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), C:\\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Tue May 12 12:35:13.604771 2020] [mpm_winnt:notice] [pid 17140:tid 640] AH00354: Child: Starting 150 worker threads.
+[Wed May 13 20:14:28.861297 2020] [ssl:warn] [pid 13100:tid 644] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 13 20:14:29.231789 2020] [core:warn] [pid 13100:tid 644] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed May 13 20:14:29.251378 2020] [ssl:warn] [pid 13100:tid 644] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), C:\\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Wed May 13 20:14:31.894886 2020] [mpm_winnt:notice] [pid 13100:tid 644] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.3 configured -- resuming normal operations
+[Wed May 13 20:14:31.894886 2020] [mpm_winnt:notice] [pid 13100:tid 644] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Wed May 13 20:14:31.894886 2020] [core:notice] [pid 13100:tid 644] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Wed May 13 20:14:32.048368 2020] [mpm_winnt:notice] [pid 13100:tid 644] AH00418: Parent: Created child process 14976
+[Wed May 13 20:14:33.552543 2020] [ssl:warn] [pid 14976:tid 556] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Wed May 13 20:14:33.837260 2020] [ssl:warn] [pid 14976:tid 556] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), C:\\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Wed May 13 20:14:34.070604 2020] [mpm_winnt:notice] [pid 14976:tid 556] AH00354: Child: Starting 150 worker threads.
+[Thu May 14 10:46:35.253247 2020] [ssl:warn] [pid 12412:tid 632] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 14 10:46:35.398804 2020] [core:warn] [pid 12412:tid 632] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu May 14 10:46:35.417754 2020] [ssl:warn] [pid 12412:tid 632] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), C:\\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Thu May 14 10:46:40.766045 2020] [mpm_winnt:notice] [pid 12412:tid 632] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.3 configured -- resuming normal operations
+[Thu May 14 10:46:40.766045 2020] [mpm_winnt:notice] [pid 12412:tid 632] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Thu May 14 10:46:40.766045 2020] [core:notice] [pid 12412:tid 632] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Thu May 14 10:46:40.770046 2020] [mpm_winnt:notice] [pid 12412:tid 632] AH00418: Parent: Created child process 14620
+[Thu May 14 10:46:42.021580 2020] [ssl:warn] [pid 14620:tid 680] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Thu May 14 10:46:42.141361 2020] [ssl:warn] [pid 14620:tid 680] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), C:\\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Thu May 14 10:46:42.246083 2020] [mpm_winnt:notice] [pid 14620:tid 680] AH00354: Child: Starting 150 worker threads.
+[Sat May 16 11:58:41.456583 2020] [ssl:warn] [pid 16264:tid 628] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 16 11:58:41.644721 2020] [core:warn] [pid 16264:tid 628] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat May 16 11:58:41.681790 2020] [ssl:warn] [pid 16264:tid 628] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), C:\\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Sat May 16 11:58:41.809708 2020] [mpm_winnt:notice] [pid 16264:tid 628] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.3 configured -- resuming normal operations
+[Sat May 16 11:58:41.809708 2020] [mpm_winnt:notice] [pid 16264:tid 628] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat May 16 11:58:41.809708 2020] [core:notice] [pid 16264:tid 628] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat May 16 11:58:41.840803 2020] [mpm_winnt:notice] [pid 16264:tid 628] AH00418: Parent: Created child process 9568
+[Sat May 16 11:58:42.824716 2020] [ssl:warn] [pid 9568:tid 668] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 16 11:58:42.942046 2020] [ssl:warn] [pid 9568:tid 668] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), C:\\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Sat May 16 11:58:43.020820 2020] [mpm_winnt:notice] [pid 9568:tid 668] AH00354: Child: Starting 150 worker threads.
+[Sat May 16 16:14:53.709360 2020] [ssl:warn] [pid 18320:tid 640] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 16 16:14:53.809606 2020] [core:warn] [pid 18320:tid 640] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat May 16 16:14:53.825234 2020] [ssl:warn] [pid 18320:tid 640] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), C:\\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Sat May 16 16:14:54.110337 2020] [mpm_winnt:notice] [pid 18320:tid 640] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.3 configured -- resuming normal operations
+[Sat May 16 16:14:54.110337 2020] [mpm_winnt:notice] [pid 18320:tid 640] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sat May 16 16:14:54.110337 2020] [core:notice] [pid 18320:tid 640] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sat May 16 16:14:54.110337 2020] [mpm_winnt:notice] [pid 18320:tid 640] AH00418: Parent: Created child process 16028
+[Sat May 16 16:14:55.596286 2020] [ssl:warn] [pid 16028:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sat May 16 16:14:55.765547 2020] [ssl:warn] [pid 16028:tid 480] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), C:\\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Sat May 16 16:14:55.812409 2020] [mpm_winnt:notice] [pid 16028:tid 480] AH00354: Child: Starting 150 worker threads.
+[Sun May 17 00:41:11.713170 2020] [ssl:warn] [pid 16700:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun May 17 00:41:11.837122 2020] [core:warn] [pid 16700:tid 576] AH00098: pid file C:/xampp/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun May 17 00:41:11.840927 2020] [ssl:warn] [pid 16700:tid 576] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), C:\\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Sun May 17 00:41:11.903097 2020] [mpm_winnt:notice] [pid 16700:tid 576] AH00455: Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.4.3 configured -- resuming normal operations
+[Sun May 17 00:41:11.903097 2020] [mpm_winnt:notice] [pid 16700:tid 576] AH00456: Apache Lounge VC15 Server built: Aug 11 2019 12:20:04
+[Sun May 17 00:41:11.903097 2020] [core:notice] [pid 16700:tid 576] AH00094: Command line: 'c:\\xampp\\apache\\bin\\httpd.exe -d C:/xampp/apache'
+[Sun May 17 00:41:11.906985 2020] [mpm_winnt:notice] [pid 16700:tid 576] AH00418: Parent: Created child process 12616
+[Sun May 17 00:41:13.237691 2020] [ssl:warn] [pid 12616:tid 632] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Sun May 17 00:41:13.452261 2020] [ssl:warn] [pid 12616:tid 632] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite' (tried: C:\\xampp\\php\\ext\\pdo_sqlite (The specified module could not be found.), C:\\xampp\\php\\ext\\php_pdo_sqlite.dll (The specified module could not be found.)) in Unknown on line 0
+[Sun May 17 00:41:13.585878 2020] [mpm_winnt:notice] [pid 12616:tid 632] AH00354: Child: Starting 150 worker threads.
